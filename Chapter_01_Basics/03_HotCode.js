@@ -1,4 +1,4 @@
-// Profiler - checks whether this code need to be 
+// Profiler - checks whether this code need to be optimized or not
 // This is not Hot Code as there is no repelative code / optimization of code required
 console.log("Hello");
 
