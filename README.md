@@ -26,6 +26,11 @@ The goal of this repository is to:
 - `02_Verify_Setup.js` – Environment verification (Node.js version, Memory usage).
 - `03_HotCode.js` – Understanding code execution and simple profiling concepts.
 
+### ✅ Chapter 02 - JS Concepts
+- `04_Core_Comments_JS.js` – Understanding single-line and multi-line comments in JavaScript.
+- `05_Core_Identifier_JS copy.js` – Learning identifier rules, naming conventions, and valid/invalid variable names.
+- `06_Var_Let_Const.js` – Deep dive into variable declarations: `var` (function-scoped), `let` (block-scoped), and `const` (constant values).
+
 ---
 
 ## 🧪 Why This Matters for Automation Testing
